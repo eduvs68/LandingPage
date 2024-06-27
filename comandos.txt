@@ -1,0 +1,10 @@
+comandos angular:
+- ng new: criar
+- ng generate:
+    - ng g c: criar componentes
+    - ng g s: criar serviços
+    - ng g m: módulo
+- ng serve: iniciar o servidor
+
+
+DOM - basicamente um arquivo que junta e gerencia todos os arquivos do componente no framework para que se compile o projeto.
